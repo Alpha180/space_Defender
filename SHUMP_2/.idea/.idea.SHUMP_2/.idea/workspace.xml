@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6bc5554-b940-4998-a2a0-3bf28eb0abba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/scroll.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/powerups.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/despawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/enemyFire.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/spawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/playerLives.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/attack.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/scroll.cs" />
+        <option value="$PROJECT_DIR$/Assets/enemyHP.cs" />
+        <option value="$PROJECT_DIR$/Assets/enemyHP_Behaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/enemyHPBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/playerLives.cs" />
+        <option value="$PROJECT_DIR$/Assets/attack.cs" />
+        <option value="$PROJECT_DIR$/Assets/enemyFire.cs" />
+        <option value="$PROJECT_DIR$/Assets/despawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/enemybehaviour_Light.cs" />
+        <option value="$PROJECT_DIR$/Assets/spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/personal/test.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i1WySPvPZdNJQOwPCCon9TOg54" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6bc5554-b940-4998-a2a0-3bf28eb0abba" name="Default Changelist" comment="" />
+      <created>1601075841772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601075841772</updated>
+      <workItem from="1601075847853" duration="24000" />
+      <workItem from="1601075970604" duration="10936000" />
+      <workItem from="1601098503964" duration="6043000" />
+      <workItem from="1601137409647" duration="34842000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="356" y="368" key="SettingsEditor" timestamp="1601142396670">
+      <screen x="0" y="27" width="3440" height="1413" />
+    </state>
+    <state x="356" y="368" key="SettingsEditor/0.27.3440.1413@0.27.3440.1413" timestamp="1601142396670" />
+    <state x="0" y="27" width="1720" height="1413" key="dock-window-1" timestamp="1601186526310">
+      <screen x="0" y="27" width="3440" height="1413" />
+    </state>
+    <state x="0" y="27" width="1720" height="1413" key="dock-window-1/0.27.3440.1413@0.27.3440.1413" timestamp="1601186526310" />
+    <state x="2240" y="343" key="run.anything.popup" timestamp="1601186232415">
+      <screen x="0" y="27" width="3440" height="1413" />
+    </state>
+    <state x="2240" y="343" key="run.anything.popup/0.27.3440.1413@0.27.3440.1413" timestamp="1601186232415" />
+  </component>
+</project>
